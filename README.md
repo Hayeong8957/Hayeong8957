@@ -8,7 +8,6 @@
 인간 신하영은 정직하고, 이해심이 깊은 사람입니다.<br/>
 고양이를 키우며, 나이키 런으로 러닝 기록하는 것을 좋아합니다."<br/>
 
-### 🧚‍♀️ About Me
 <a href="https://steep-agreement-07d.notion.site/Hayeong-Shin-f50e2f52ad5b478ab9f8cfaf56086292?pvs=4" target="_blank"><img src="https://img.shields.io/badge/resume-dd0b78?style=flat&logo=notion&logoColor=white"></a> 
 <a href="https://velog.io/@gnoeyah" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=velog&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/hayeong-shin-074996227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>
