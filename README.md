@@ -1,6 +1,5 @@
 ### 신하영 / Hayeong Shin
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DD0B78&title_bg=%23FF97CD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/Hayeong8957)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHayeong8957&count_bg=%23DD0B78&title_bg=%23FF97CD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **Hayeong8957/Hayeong8957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
