@@ -14,7 +14,7 @@
 
 ### 👩‍💻 Career
 `2023.12.04` ~  Toss - Frontend Developer Assistant (계약직)<br/>
-`2023.07.03` ~ `2023.11.01` 에스큐케이 입사 - Frontend Developer (정규직 - 4개월)
+`2023.07.03` ~ `2023.11.01` 에스큐케이 - Frontend Developer (정규직 - 4개월)
 
 ### 👾 Tech Stacks
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> 
