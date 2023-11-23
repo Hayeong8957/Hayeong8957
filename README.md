@@ -19,11 +19,6 @@
 ### 👾 Tech Stacks
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> 
 <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=flat&logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=nextdotjs&logoColor=white"> 
  
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayeong8957&show_icons=true&theme=radical)
-
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHayeong8957&count_bg=%23DD0B78&title_bg=%23FF97CD&icon=&icon_color=%23E7E7E7&title=hits)](https://hits.seeyoufarm.com)
