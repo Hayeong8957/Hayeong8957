@@ -1,5 +1,5 @@
 ### 신하영 / Hayeong Shin
-<a href="https://steep-agreement-07d.notion.site/Hayeong-Shin-f50e2f52ad5b478ab9f8cfaf56086292?pvs=4" target="_blank"><img src="https://img.shields.io/badge/resume-dd0b78?style=flat&logo=notion&logoColor=white"></a> 
+<a href="https://www.rallit.com/resumes/173211@shy8957/%EC%8B%A0%ED%95%98%EC%98%81?theme=MINT_SORBET" target="_blank"><img src="https://img.shields.io/badge/resume-dd0b78?style=flat&logo=notion&logoColor=white"></a> 
 <a href="https://velog.io/@gnoeyah" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=velog&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/hayeong-shin-074996227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>
 
